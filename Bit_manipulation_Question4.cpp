@@ -1,4 +1,4 @@
-//Writ ethe program to find the unique number in an array where every element appears twice except one.
+//Write the program to find the unique number in an array where every element appears twice except one.
 
 #include "bits/stdc++.h"
 using namespace std;
