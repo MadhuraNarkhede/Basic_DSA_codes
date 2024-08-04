@@ -1,4 +1,4 @@
-//Write a program to generat eall possible subset of set.
+//Write a program to generat all possible subset of set.
 #include<iostream>
 using namespace std;
 int main()
